@@ -1,5 +1,7 @@
 # Band-limited maximum likelihood (BLML)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24063290.svg)](https://doi.org/10.5281/zenodo.24063290)
+
 Code for band-limited maximum likelihood density estimation: a density is estimated as f = Σ_k |g_k|², each g_k
 real or complex with its spectrum in a set given by a kernel (a band, two slits, a disk, their periodic versions on
 a window, ...). The coefficients solve the stationarity conditions of the likelihood on a lattice of bins, by
@@ -70,6 +72,11 @@ and the scripts under `results/`); their outputs, the papers and the data are no
 prices, UCI data sets; see the papers for sources) from `~/data_repo/...` or a path in the script, write results
 under `results/`, and the figure and table scripts write into `papers/...`. Several runs used a GPU on Colab
 (`colab_job.sh`, `run_colab*.sh`).
+
+## Citing
+
+Please cite the papers above and the archived code: R. Agarwal and A. Agarwal, *band-limited-ml*, Zenodo,
+https://doi.org/10.5281/zenodo.24063290 (all versions; v1.0: https://doi.org/10.5281/zenodo.24063291).
 
 ## License
 
