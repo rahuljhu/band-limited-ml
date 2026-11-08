@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# outputs of the experiment scripts (not part of this repository)
+results/**/*.json
+results/**/*.npz
+results/**/*.npy
+results/**/*.log
+results/**/*.pdf
+results/**/*.png
+papers/
+outputs*/

@@ -1,0 +1,9 @@
+# core (tested with Python 3.13)
+numpy>=2.0
+scipy>=1.13
+numba>=0.60          # CPU kernels (optional but strongly recommended)
+# optional
+matplotlib>=3.8      # figure scripts
+scikit-learn>=1.4    # blml_net
+joblib>=1.3          # blml_net
+# cupy-cuda12x       # GPU engine (engine='gpu'); install the build matching your CUDA
