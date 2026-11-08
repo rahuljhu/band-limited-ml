@@ -1,0 +1,11 @@
+{
+  "title": "band-limited-ml: band-limited maximum likelihood (BLML) density estimation",
+  "description": "Code for band-limited maximum likelihood density estimation (real and complex roots, several modes; CPU and GPU), accompanying two papers: 'Taking Band-Limited Maximum Likelihood to High Dimensions: Linear Memory, the Parametric Rate, and a Self-Tuning Cut-off' and 'Complex band-limited maximum likelihood: estimating the wave behind detected quanta' (R. Agarwal and A. Agarwal).",
+  "creators": [
+    {"name": "Agarwal, Rahul"},
+    {"name": "Agarwal, Ankit"}
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["density estimation", "band-limited", "maximum likelihood", "phase retrieval", "single-particle interference"]
+}
