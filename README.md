@@ -9,9 +9,9 @@ coordinate descent or L-BFGS, on the CPU (NumPy / numba) or the GPU (CuPy). This
 it accompanies two papers:
 
 - R. Agarwal and A. Agarwal, *Taking Band-Limited Maximum Likelihood to High Dimensions: Linear Memory, the
-  Parametric Rate, and a Self-Tuning Cut-off* (arXiv, 2026).
+  Parametric Rate, and a Self-Tuning Cut-off* (manuscript submitted for publication, 2026).
 - R. Agarwal and A. Agarwal, *Complex band-limited maximum likelihood: estimating the wave behind detected quanta*
-  (arXiv, 2026).
+  (manuscript, 2026).
 
 ## Install
 
